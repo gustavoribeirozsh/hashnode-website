@@ -6,7 +6,7 @@ datePublished: Tue Nov 05 2024 04:49:08 GMT+0000 (Coordinated Universal Time)
 cuid: cm6oxtei7000m09jr70ms16c7
 slug: how-to-instalac3a7c3a3o-do-docker-no-windows-da-forma-correta-17c41b2d46ca
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738580289839/857279a6-379c-4e1a-a0ea-034087d4244d.png
-tags: docker, developer, devops
+tags: docker, developer, windows, devops, docker-compose, howtos, docker-images
 
 ---
 
