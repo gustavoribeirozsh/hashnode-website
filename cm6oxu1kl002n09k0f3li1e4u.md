@@ -6,7 +6,7 @@ datePublished: Mon May 30 2022 03:16:38 GMT+0000 (Coordinated Universal Time)
 cuid: cm6oxu1kl002n09k0f3li1e4u
 slug: bigquery-pra-que-ele-serve
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738580320231/f670cbbd-ad98-437e-b7fb-c51770738cd3.png
-tags: big-data, gcp
+tags: data, data-science, big-data, data-analysis, google-cloud, google, bigquery, gcp
 
 ---
 
