@@ -4,9 +4,9 @@ seoTitle: "Introdução ao BigQuery: Utilização e Benefícios"
 seoDescription: "Descubra como o BigQuery, serviço do Google Cloud, facilita a análise de grandes volumes de dados para gerar insights estratégicos"
 datePublished: Mon May 30 2022 03:16:38 GMT+0000 (Coordinated Universal Time)
 cuid: cm6oxu1kl002n09k0f3li1e4u
-slug: o-que-c3a9-bigquery-e-para-que-ele-serve-b587d337d678
+slug: bigdata
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738580320231/f670cbbd-ad98-437e-b7fb-c51770738cd3.png
-tags: gcp
+tags: big-data, gcp
 
 ---
 
