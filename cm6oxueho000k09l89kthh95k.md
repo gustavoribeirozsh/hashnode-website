@@ -1,5 +1,7 @@
 ---
 title: "Big Data e Machine Learning no Google Cloud Platform — Introdução aos produtos e serviços de…"
+seoTitle: "Google Cloud: Big Data & Machine Learning Overview"
+seoDescription: "Descubra os produtos e serviços de Big Data e Machine Learning no Google Cloud Platform e como eles transformam a computação em nuvem"
 datePublished: Sat May 21 2022 00:09:41 GMT+0000 (Coordinated Universal Time)
 cuid: cm6oxueho000k09l89kthh95k
 slug: big-data-e-machine-learning-no-google-cloud-platform-introduc3a7c3a3o-aos-produtos-e-servic3a7os-de-54e911fcbf14
