@@ -38,38 +38,27 @@ tags: docker, developer, windows, devops, docker-compose, howtos, docker-images
 * Cole o seguinte código:
     
 
-\# Settings apply across all Linux distros running on WSL 2  
-\[wsl2\]
+`# Settings apply across all Linux distros running on WSL 2   [wsl2]`
 
-\# Limits VM memory to use no more than 4 GB, this can be set as whole numbers using GB or MB  
-memory=4GB
+`# Limits VM memory to use no more than 4 GB, this can be set as whole numbers using GB or MB   memory=4GB`
 
-\# Sets the VM to use two virtual processors  
-processors=2
+`# Sets the VM to use two virtual processors   processors=2`
 
-\# Specify a custom Linux kernel to use with your installed distros. The default kernel used can be found at https://github.com/microsoft/WSL2-Linux-Kernel  
-kernel=C:\\temp\\myCustomKernel
+`# Specify a custom Linux kernel to use with your installed distros. The default kernel used can be found at https://github.com/microsoft/WSL2-Linux-Kernel   kernel=C:\temp\myCustomKernel`
 
-\# Sets additional kernel parameters, in this case enabling older Linux base images such as Centos 6  
-kernelCommandLine = vsyscall=emulate
+`# Sets additional kernel parameters, in this case enabling older Linux base images such as Centos 6   kernelCommandLine = vsyscall=emulate`
 
-\# Sets amount of swap storage space to 8GB, default is 25% of available RAM  
-swap=8GB
+`# Sets amount of swap storage space to 8GB, default is 25% of available RAM   swap=8GB`
 
-\# Sets swapfile path location, default is %USERPROFILE%\\AppData\\Local\\Temp\\swap.vhdx  
-swapfile=C:\\temp\\wsl-swap.vhdx
+`# Sets swapfile path location, default is %USERPROFILE%\AppData\Local\Temp\swap.vhdx   swapfile=C:\temp\wsl-swap.vhdx`
 
-\# Disable page reporting so WSL retains all allocated memory claimed from Windows and releases none back when free  
-pageReporting=false
+`# Disable page reporting so WSL retains all allocated memory claimed from Windows and releases none back when free   pageReporting=false`
 
-\# Turn off default connection to bind WSL 2 localhost to Windows localhost  
-localhostforwarding=true
+`# Turn off default connection to bind WSL 2 localhost to Windows localhost   localhostforwarding=true`
 
-\# Disables nested virtualization  
-nestedVirtualization=false
+`# Disables nested virtualization   nestedVirtualization=false`
 
-\# Turns on output console showing contents of dmesg when opening a WSL 2 distro for debugging  
-debugConsole=true
+`# Turns on output console showing contents of dmesg when opening a WSL 2 distro for debugging   debugConsole=true`
 
 * Vá até seu usuário no Windows — *Explorar &gt; Disco Local (C:)&gt; Usuários &gt; Seu nome de Usuário,* ou pressione *Win + R e digite %USERPROFILE%*
     
